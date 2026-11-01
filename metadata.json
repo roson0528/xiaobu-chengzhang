@@ -21,5 +21,10 @@
   "sha256": "6fc941a9c0fba96160cb7ed7579fe41bed2907bbcc344a6f20b3ec9377cd4047",
   "created_at": "2026-11-01 02:18:08",
   "download_url": "/api/v1/images/xiaobu-chengzhang/download",
-  "git_url": "/img-git/xiaobu-chengzhang.git"
+  "git_url": "/img-git/xiaobu-chengzhang.git",
+  "github": {
+    "url": "https://github.com/roson0528/xiaobu-chengzhang",
+    "release_tag": "v1.0.0",
+    "release_url": "https://github.com/roson0528/xiaobu-chengzhang/releases/tag/v1.0.0"
+  }
 }

@@ -28,3 +28,16 @@ curl -OJ "<服务地址>/api/v1/images/xiaobu-chengzhang/download"
 # 或克隆仓库
 git clone <服务地址>/img-git/xiaobu-chengzhang.git
 ```
+<!-- ghm-github-section -->
+## 从 GitHub 获取
+```bash
+# 克隆仓库（含 README 与 metadata.json）
+git clone https://github.com/roson0528/xiaobu-chengzhang.git
+# 下载打包好的归档
+curl -LO https://github.com/roson0528/xiaobu-chengzhang/releases/latest/download/learningtools-opensource-1.0.0.tar.gz
+```
+- 仓库：https://github.com/roson0528/xiaobu-chengzhang
+- 最新版本：`v1.0.0`（https://github.com/roson0528/xiaobu-chengzhang/releases/tag/v1.0.0）
+- 归档文件：`learningtools-opensource-1.0.0.tar.gz`
+- 校验：`sha256sum learningtools-opensource-1.0.0.tar.gz` 应为 `6fc941a9c0fba96160cb7ed7579fe41bed2907bbcc344a6f20b3ec9377cd4047`
+> 本仓库由内网镜像站自动同步生成，内容与镜像站保持一致。
