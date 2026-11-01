@@ -14,6 +14,10 @@
 | SHA256 | `6fc941a9c0fba96160cb7ed7579fe41bed2907bbcc344a6f20b3ec9377cd4047` |
 | 上传时间 | 2026-11-01 02:18:08 |
 | 标签 | 家庭管理、学习习惯、flutter、fastapi、vue3、自托管、开源 |
+| 演示网站 | https://grow.bairulin.com/ |
+## 在线演示
+
+打开 https://grow.bairulin.com/ 可直接试用（无需下载）。
 
 ## 获取方式
 
